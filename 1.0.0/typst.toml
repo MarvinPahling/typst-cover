@@ -1,0 +1,7 @@
+[package]
+name = "cover"
+version = "1.0.0"
+entrypoint = "cover.typ"
+authors = ["Marvin Pahling"]
+repository = "https://github.com/MarvinPahling/typst-cover"
+description = "A personal cover page template for university documents"

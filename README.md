@@ -17,7 +17,7 @@ git -C $XDG_DATA_HOME/typst/packages/marvin/cover pull
 You can eather invoce the cover directly like this
 
 ```typst
-#import "@marvin/cover:0.0.0": cover
+#import "@marvin/cover:1.0.0": cover
 
 #cover(
     title: "",
@@ -56,7 +56,7 @@ logo:
 ```
 
 ```typst
-#import "@marvin/cover:0.0.0": load_from_yaml
+#import "@marvin/cover:1.0.0": load_from_yaml
 
 #load_from_yaml(path: "./example-config")
 ```
