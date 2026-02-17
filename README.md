@@ -6,6 +6,12 @@
 git clone https://github.com/MarvinPahling/typst-cover.git $XDG_DATA_HOME/typst/packages/marvin/cover
 ```
 
+Update with
+
+```bash
+git -C $XDG_DATA_HOME/typst/packages/marvin/cover pull
+```
+
 ## Usage
 
 You can eather invoce the cover directly like this
